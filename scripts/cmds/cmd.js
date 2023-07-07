@@ -18,7 +18,7 @@ module.exports = {
 	config: {
 		name: "cmd",
 		version: "1.14",
-		author: "SYNTAX TEAM",
+		author: "NTKhang",
 		countDown: 5,
 		role: 2,
 		shortDescription: {
